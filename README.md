@@ -1,6 +1,6 @@
 # Study_C#
 ## 공부할 때 사용하는 책
-
+[C# 프로그래밍 입문 - 오세만, 이양선, 이창환, 손윤식 지음](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970509013&orderClick=LET&Kc=)
 
 ## 학습 목차
 1. 1장 개요
